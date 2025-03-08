@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+test 1/
+test 2/*.txt
+test3/secret.txt
